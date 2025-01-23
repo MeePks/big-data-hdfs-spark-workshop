@@ -1,0 +1,7 @@
+transaction_id,product_name,category,quantity,price,transaction_date
+1,Smartphone,Electronics,2,500,2025-01-20
+2,Laptop,Electronics,1,1000,2025-01-20
+3,Headphones,Accessories,5,50,2025-01-21
+4,Smartphone,Electronics,1,500,2025-01-21
+5,Backpack,Accessories,3,70,2025-01-22
+6,Tablet,Electronics,1,300,2025-01-22
